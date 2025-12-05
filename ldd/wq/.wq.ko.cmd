@@ -1,0 +1,1 @@
+savedcmd_/root/wq/wq.ko := x86_64-linux-gnu-ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /root/wq/wq.ko /root/wq/wq.o /root/wq/wq.mod.o /root/wq/.module-common.o

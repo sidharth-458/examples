@@ -1,0 +1,1 @@
+void CLOCK_INIT(void);

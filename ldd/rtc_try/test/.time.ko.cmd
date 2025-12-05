@@ -1,0 +1,1 @@
+savedcmd_/root/rtc_try/test/time.ko := x86_64-linux-gnu-ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /root/rtc_try/test/time.ko /root/rtc_try/test/time.o /root/rtc_try/test/time.mod.o /root/rtc_try/test/.module-common.o

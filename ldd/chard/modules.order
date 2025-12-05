@@ -1,0 +1,1 @@
+/root/chard/charu.o

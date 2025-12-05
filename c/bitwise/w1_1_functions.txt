@@ -1,0 +1,8 @@
+What are the functions of bitwise operators AND, OR, XOR, and shift operations?
+The bitwise operator AND results in individual bits doing 'logical AND' between a 2 operands. Usually it is to clear a bit.
+
+The bitwise operator XOR results in individual bits doing 'logical XOR' between a 2 operands. Usually used to toggle.
+
+The bitwise operator OR results in individual bits doing 'logical OR' between a 2 operands. Usually used to set a bit.
+
+The shift operator results in whole bit shifting right or left. Shift right does division and shift left multiplication.

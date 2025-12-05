@@ -1,0 +1,11 @@
+[16020.320332] charu: loading out-of-tree module taints kernel.
+[16020.320353] charu: module verification failed: signature and/or required key missing - tainting kernel
+[16020.325262] charu: alloc_chardev_region gave device_id 254803968(243:0)
+[16020.325267] charu: cdev_init initialzed cdev and attached fops to it
+[16020.325280] charu: cdev_add success, cdev registered in kernel to device_id 254803968
+[16020.325324] charu: class_create success, sysfs must have charu
+[16020.325435] charu: device_create success, devfs must have charu0
+[16036.003364] charu: device destroyed from /dev
+[16036.003469] charu: class destroyed from /sys
+[16036.003477] charu: cdev object free'd from kernel
+[16036.003480] charu: chrdev region free'd

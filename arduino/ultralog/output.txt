@@ -1,0 +1,5 @@
+flash works
+detected
+gone
+entry 1526
+exit 2479

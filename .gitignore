@@ -1,0 +1,11 @@
+*.launch
+*.cfg
+**/Third-party/
+**/Debug/
+**/Drivers/
+**/.metadata/
+.project
+.cproject
+.mxproject
+**/.settings/
+**/venv/

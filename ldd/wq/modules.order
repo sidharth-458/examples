@@ -1,0 +1,1 @@
+/root/wq/wq.o

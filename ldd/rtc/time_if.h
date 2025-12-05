@@ -1,0 +1,3 @@
+#define TIME_MAGIC	0x64
+#define TIME_LOCK	_IO(TIME_MAGIC,	1)
+#define TIME_UNLOCK	_IO(TIME_MAGIC,	2)

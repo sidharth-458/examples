@@ -1,0 +1,1 @@
+/root/amod/amod.o

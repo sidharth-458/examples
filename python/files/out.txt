@@ -1,0 +1,5 @@
+printed
+input
+tried lock
+ERROR: integer divide by zero
+ERROR: malloc too large value

@@ -1,0 +1,1 @@
+savedcmd_/root/memuser/memuser.ko := x86_64-linux-gnu-ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /root/memuser/memuser.ko /root/memuser/memuser.o /root/memuser/memuser.mod.o /root/memuser/.module-common.o
