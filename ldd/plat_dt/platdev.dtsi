@@ -1,0 +1,15 @@
+/ {
+	#address-cells = <1>
+	#size-cells = <0>
+	platdev@0 {
+		compatible = "bitsilica,plat-1x";
+		reg = <0>;
+		bitsilica,baud = <9600>;
+	};
+	platdev@1 {
+		compatible = "bitsilica,plat-2x";
+		reg = <1>;
+		bitsilica,baud = <115200>;
+		bitsilica,parity = <1>;
+	};
+};

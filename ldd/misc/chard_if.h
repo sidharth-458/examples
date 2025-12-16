@@ -1,0 +1,4 @@
+#define CHARD_MAGIC	0x64
+#define CHARD_LOCK	_IOW(CHARD_MAGIC,	1,	int)
+#define CHARD_UNLOCK	_IOW(CHARD_MAGIC,	2,	int)
+#define CHARD_BUFF_SIZE	_IOWR(CHARD_MAGIC,	3,	int)
