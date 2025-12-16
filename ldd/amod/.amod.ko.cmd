@@ -1,1 +1,0 @@
-savedcmd_/root/amod/amod.ko := x86_64-linux-gnu-ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /root/amod/amod.ko /root/amod/amod.o /root/amod/amod.mod.o /root/amod/.module-common.o

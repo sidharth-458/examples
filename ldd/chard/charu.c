@@ -70,7 +70,7 @@ chrdev:
 }
 
 static void __exit charu_exit(void){
-	pr_info("device destroyed from /dev");
+/*	pr_info("device destroyed from /dev");
 	device_destroy(sys,device_id);
 
 	pr_info("class destroyed from /sys");
@@ -81,6 +81,7 @@ static void __exit charu_exit(void){
 
 	pr_info("chrdev region free'd");
 	unregister_chrdev_region(device_id,1);
+*/
 }
 
 
